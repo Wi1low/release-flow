@@ -1,0 +1,26 @@
+# .github/release.yml
+# 其他请查看 https://docs.github.com/zh/repositories/releasing-projects-on-github/automatically-generated-release-notes
+
+changelog:
+#  排除项，如果满足了exclude下的就不会发版
+  # exclude:
+  #   labels:
+  #     - ignore-for-release
+  #   authors:
+  #     - octocat
+  categories:
+  #  满足条件的就会显示在此title下
+    - title: Breaking Changes 🛠
+      labels:
+      #  包含大版本号的
+        - Semver-Major
+      #  破坏性变更的
+        - breaking-change
+  #  这里同理
+    - title: Exciting New Features 🎉
+      labels:
+        - Semver-Minor
+        - enhancement
+    - title: Other Changes
+      labels:
+        - "*"
