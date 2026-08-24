@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.3](https://github.com/Wi1low/release-flow/compare/v0.2.2...v0.2.3) (2026-08-24)
+
+
+### Maintenance
+
+* update file name and modify gorelaser's the version of go ([f9c0216](https://github.com/Wi1low/release-flow/commit/f9c0216278a5c389d967a1d2993d469437cbf62b))
+
 ## [0.2.2](https://github.com/Wi1low/release-flow/compare/v0.2.1...v0.2.2) (2026-08-24)
 
 
