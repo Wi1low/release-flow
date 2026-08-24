@@ -5,4 +5,5 @@ import "fmt"
 func main() {
 	fmt.Println("release flow")
 	fmt.Println("hello")
+	fmt.Println("world")
 }
