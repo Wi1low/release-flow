@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.4](https://github.com/Wi1low/release-flow/compare/v0.2.3...v0.2.4) (2026-08-24)
+
+
+### Bug Fixes
+
+* release.yml outputs.release_created to releases_created ([dc82233](https://github.com/Wi1low/release-flow/commit/dc822330b5eb6b65b4ae95d5cb26e5ccb77cb27a))
+
 ## [0.2.3](https://github.com/Wi1low/release-flow/compare/v0.2.2...v0.2.3) (2026-08-24)
 
 
