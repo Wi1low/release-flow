@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.2.1](https://github.com/Wi1low/release-flow/compare/v0.2.0...v0.2.1) (2026-08-24)
+
+
+### Maintenance
+
+* add config ([b33f6a0](https://github.com/Wi1low/release-flow/commit/b33f6a05e6a8fb2a17276438d5d7d7dc47f9509f))
+* repeat abc ([6542fef](https://github.com/Wi1low/release-flow/commit/6542fef5cde43543c277fca0778c5db386d0116e))
+* update config ([53b37d5](https://github.com/Wi1low/release-flow/commit/53b37d5c873f07244e2222a683e5ca6b309fb311))
+
 ## [0.2.0](https://github.com/Wi1low/release-flow/compare/v0.1.1...v0.2.0) (2026-08-24)
 
 
