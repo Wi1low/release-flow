@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.2](https://github.com/Wi1low/release-flow/compare/v0.2.1...v0.2.2) (2026-08-24)
+
+
+### Maintenance
+
+* add goreleaser ([fdeeb59](https://github.com/Wi1low/release-flow/commit/fdeeb59f5c7d999f874e3ab5375b466527e2a59d))
+
 ## [0.2.1](https://github.com/Wi1low/release-flow/compare/v0.2.0...v0.2.1) (2026-08-24)
 
 
